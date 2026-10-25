@@ -1,6 +1,9 @@
 Student Name: J K Anjanai
+
 Register Number: 1911260255
+
 Compiler: GCC
+
 Compiler Version: GCC 13 (or the version installed on your system)
 
 2. Compilation Command
