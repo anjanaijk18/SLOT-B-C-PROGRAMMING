@@ -60,4 +60,5 @@ Task 10 – Compare Expectations with Execution: Compared floating-point and int
 overflow at district scale.
 
 Task 11 – Recommend the Final Design: Recommended suitable data types, constants, validation and debugging features.
+
 Task 12 – Re-evaluate and Adapt: Adapted the design for smart-meter readings, peak-hour tariffs and runtime tariff configuration.
